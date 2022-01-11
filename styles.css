@@ -1,0 +1,51 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: lightgray;
+}
+
+h2, p, .readme-wrapper {
+  text-align: center;
+}
+a {
+  text-decoration: none;
+  color: darkolivegreen;
+}
+a:hover {
+  cursor: pointer;
+  font-weight: bold;
+  color: aquamarine;
+}
+span {
+  color: blueviolet;
+  font-weight: bolder;
+}
+.boxes {
+  margin: 10px;
+  padding: 10px;
+  border: solid 5px green;
+  border-radius: 10px;
+  width: 30em;
+  display: block;
+}
+#box1 {
+  background-color: hotpink;
+}
+#box2 {
+  background-color: purple;
+
+}
+#box3 {
+  background-color: brown;
+}
+#box4 {
+  background-color: darkorange;
+}
+
+.images {
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+  background-color: darkseagreen;
+  position: absolute;
+  left: 150px;
+}
