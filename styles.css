@@ -49,3 +49,40 @@ span {
   position: absolute;
   left: 150px;
 }
+
+h1 {
+  color: darkred;
+}
+.original {
+  color: darkslateblue;
+}
+.additional {
+  color: blueviolet;
+}
+#rank1 {
+  color: lightpink;
+}
+#rank2 {
+  color: lightskyblue;
+}
+#rank3 {
+  color: lightslategrey;
+}
+#rank4 {
+  color: lightyellow;
+}
+#rank5 {
+  color: lightseagreen;
+}
+ul {
+  color: darkorange;
+}
+.star {
+  color: lightsalmon;
+}
+#wars {
+  color: yellowgreen;
+}
+.list {
+  border: solid 2px black;
+}
